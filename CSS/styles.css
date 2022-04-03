@@ -1,0 +1,29 @@
+.form-control{
+    width: 50%;
+    
+    }
+.text-muted{
+    text-align:right;
+ vertical-align: text-top;
+ font-size: 1.25rem;
+
+}
+.cart-body.container-all{
+    padding-left: 20px;
+}
+.container-all{
+    width: 90%;
+    margin: auto;
+    border: 0;
+}
+.container-all img{
+    width: 300px;
+    
+}
+.container-all p{
+    padding-top: 20px;
+    float: right;
+}
+#contenido{/*id del  input del formulario*/
+    padding: 100px;
+}
