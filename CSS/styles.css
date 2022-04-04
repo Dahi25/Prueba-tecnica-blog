@@ -1,6 +1,9 @@
 .form-control{
     width: 50%;
-    
+    background-color: white;
+    }
+    .invalid-feedback{
+        background-color: white;
     }
 .text-muted{
     text-align:right;
@@ -26,4 +29,7 @@
 }
 #contenido{/*id del  input del formulario*/
     padding: 100px;
+}
+#paneldeControl{
+    height: 1000px;
 }
